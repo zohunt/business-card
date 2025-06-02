@@ -22,5 +22,7 @@ a {
 }
 
 .profile-image {
-  max-width: 100%;
+  max-width: 150px; /* adjust as needed */
+  height: auto;
+  border-radius: 10px; /* optional: rounds corners */
 }
